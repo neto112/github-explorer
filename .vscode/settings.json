@@ -1,0 +1,14 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Fira Code",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "[json]": {
+  
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+}
